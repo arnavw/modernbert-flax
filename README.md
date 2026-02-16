@@ -1,4 +1,4 @@
-# ModernBERT in Flax
+# ModernBERT in JAX/Flax
 
 A minimal implementation of [ModernBERT](https://huggingface.co/blog/modernbert) in [Flax NNX](https://flax.readthedocs.io/en/latest/nnx_basics.html). Produces equivalent outputs to the PyTorch reference.
 
